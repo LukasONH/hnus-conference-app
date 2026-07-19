@@ -1,5 +1,5 @@
 // Service worker for Head & Neck Ultrasound Conference PWA
-const CACHE_NAME = "hnus-conference-v1";
+const CACHE_NAME = "hnus-conference-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
